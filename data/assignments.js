@@ -11,8 +11,8 @@ assignments = {
       "title": "Homework Assignment #3: Chapter 2",
       "course": "ME 3293",
       "dueDate": "2024-09-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/851677",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/851677/assignments/4867630/submissions/269004770",
+      "submitted": true
     },
     {
       "title": "Homework Assignment #2: Chapter 2",
