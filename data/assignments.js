@@ -64,6 +64,13 @@ assignments = {
       "dueDate": "2024-09-22T23:59:00",
       "link": "https://www.gradescope.com/courses/826306/assignments/4807909/submissions/270184404",
       "submitted": true
+    },
+    {
+      "title": "Exam #1",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-09-25T20:00:00",
+      "link": "https://www.gradescope.com/courses/826306",
+      "submitted": false
     }
   ]
 };
