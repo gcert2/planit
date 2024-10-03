@@ -92,6 +92,13 @@ assignments = {
       "dueDate": "2024-09-25T20:00:00",
       "link": "https://www.gradescope.com/courses/826306/assignments/5043116/submissions/271436940",
       "submitted": true
+    },
+    {
+      "title": "MAKEUP EXAM ",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-10-03T18:00:00",
+      "link": "https://www.gradescope.com/courses/826306",
+      "submitted": false
     }
   ]
 };
