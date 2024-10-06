@@ -41,8 +41,8 @@ assignments = {
       "title": "Laboratory Assignment #2 - Data Analysis",
       "course": "ME-3113-0C1-202510",
       "dueDate": "2024-09-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/826306",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826306/assignments/4749432/submissions/269982010",
+      "submitted": true
     },
     {
       "title": "Laboratory Assignment #2 - Individual Peer Evaluation",
