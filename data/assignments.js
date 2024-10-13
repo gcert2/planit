@@ -55,8 +55,8 @@ assignments = {
       "title": "Laboratory Assignment #3 - Circuit Fundamentals",
       "course": "ME-3113-0C1-202510",
       "dueDate": "2024-10-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/826306",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826306/assignments/4749434/submissions/277433373",
+      "submitted": true
     },
     {
       "title": "Laboratory Assignment #3 - Individual Peer Evaluation",
