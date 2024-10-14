@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2024-10-09T23:59:00",
       "link": "https://www.gradescope.com/courses/851677/assignments/4867633/submissions/276412093",
       "submitted": true
+    },
+    {
+      "title": "Homework Assignment #5: Chapter 4",
+      "course": "ME 3293",
+      "dueDate": "2024-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/851677",
+      "submitted": false
     }
   ],
   "ME-3113-0C1-202510": [
@@ -64,6 +71,20 @@ assignments = {
       "dueDate": "2024-10-13T23:59:00",
       "link": "https://www.gradescope.com/courses/826306/assignments/4749435/submissions/277454642",
       "submitted": true
+    },
+    {
+      "title": "Laboratory Assignment #4 - Individual Peer Evaluation",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-11-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/826306",
+      "submitted": false
+    },
+    {
+      "title": "Laboratory Assignment #4 - Op-Amps and Passive RC Filters",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-11-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/826306",
+      "submitted": false
     },
     {
       "title": "Homework #1",
