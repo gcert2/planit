@@ -132,8 +132,8 @@ assignments = {
       "title": "MIDTERM #2",
       "course": "ME-3113-0C1-202510",
       "dueDate": "2024-10-23T20:00:00",
-      "link": "https://www.gradescope.com/courses/826306",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826306/assignments/5189465/submissions/281310461",
+      "submitted": true
     }
   ]
 };
