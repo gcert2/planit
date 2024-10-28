@@ -136,6 +136,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Homework #5",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-11-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/826306",
+      "submitted": false
+    },
+    {
       "title": "MIDTERM #2",
       "course": "ME-3113-0C1-202510",
       "dueDate": "2024-10-23T20:00:00",
