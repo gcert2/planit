@@ -41,6 +41,13 @@ assignments = {
       "dueDate": "2024-10-25T23:59:00",
       "link": "https://www.gradescope.com/courses/851677/assignments/4867635/submissions/282333487",
       "submitted": true
+    },
+    {
+      "title": "Certificate of Meet Your Faculty Mentor Event (10-25-2024)",
+      "course": "ME 3293",
+      "dueDate": "2024-11-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/851677",
+      "submitted": false
     }
   ],
   "ME-3113-0C1-202510": [
