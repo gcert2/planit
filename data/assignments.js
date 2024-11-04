@@ -101,6 +101,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Laboratory Assignment #5 - Individual Peer Evaluation",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-11-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/826306",
+      "submitted": false
+    },
+    {
+      "title": "Laboratory Assignment #5 - Strain Gages",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-11-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/826306",
+      "submitted": false
+    },
+    {
       "title": "Homework #1",
       "course": "ME-3113-0C1-202510",
       "dueDate": "2024-09-15T23:59:00",
