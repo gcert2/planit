@@ -46,8 +46,8 @@ assignments = {
       "title": "Homework Assignment #7: Chapter 6",
       "course": "ME 3293",
       "dueDate": "2024-11-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/851677",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/851677/assignments/4867638/submissions/288468977",
+      "submitted": true
     },
     {
       "title": "Certificate of Meet Your Faculty Mentor Event (10-25-2024)",
