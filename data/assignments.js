@@ -122,6 +122,20 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Laboratory Assignment #6 - Final Project",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-12-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/826306",
+      "submitted": false
+    },
+    {
+      "title": "Laboratory Assignment #6 - Individual Peer Evaluation",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-12-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/826306",
+      "submitted": false
+    },
+    {
       "title": "Homework #1",
       "course": "ME-3113-0C1-202510",
       "dueDate": "2024-09-15T23:59:00",
