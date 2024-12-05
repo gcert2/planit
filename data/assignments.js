@@ -225,6 +225,13 @@ assignments = {
       "dueDate": "2024-12-01T23:59:00",
       "link": "https://www.gradescope.com/courses/826306/assignments/5336572/submissions/293744939",
       "submitted": true
+    },
+    {
+      "title": "Final Exam",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-12-04T20:30:00",
+      "link": "https://www.gradescope.com/courses/826306/assignments/5406218/submissions/294636963",
+      "submitted": true
     }
   ],
   "ME-3813-003-202510": []
