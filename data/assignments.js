@@ -46,8 +46,8 @@ assignments = {
       "title": "Homework Assignment #9: Chapters 8 & 10",
       "course": "ME 3293",
       "dueDate": "2024-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/851677",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/851677/assignments/4867637/submissions/295089325",
+      "submitted": true
     },
     {
       "title": "Homework Assignment #7: Chapter 6",
