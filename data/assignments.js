@@ -232,6 +232,13 @@ assignments = {
       "dueDate": "2024-12-04T20:30:00",
       "link": "https://www.gradescope.com/courses/826306/assignments/5406218/submissions/294636963",
       "submitted": true
+    },
+    {
+      "title": "Final Exam - Sick Makeup",
+      "course": "ME-3113-0C1-202510",
+      "dueDate": "2024-12-10T16:12:00",
+      "link": "https://www.gradescope.com/courses/826306",
+      "submitted": false
     }
   ],
   "ME-3813-003-202510": []
