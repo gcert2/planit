@@ -1,4 +1,5 @@
 assignments = {
+  "ME-3543-001-202520": [],
   "ME4293 Spr25": [
     {
       "title": "Ch7 1. Prob 7.017",
