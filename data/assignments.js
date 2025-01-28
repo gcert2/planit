@@ -6,6 +6,13 @@ assignments = {
       "dueDate": "2025-01-30T23:59:00",
       "link": "https://www.gradescope.com/courses/961345",
       "submitted": false
+    },
+    {
+      "title": "Homework 2",
+      "course": "ME-3543-001-202520",
+      "dueDate": "2025-02-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/961345",
+      "submitted": false
     }
   ],
   "ME4293 Spr25": [
