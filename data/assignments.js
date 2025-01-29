@@ -20,8 +20,8 @@ assignments = {
       "title": "Prerequisite Quiz",
       "course": "ME-3663-002-202520",
       "dueDate": "2025-01-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/969569",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969569/assignments/5683018/submissions/302974163",
+      "submitted": true
     }
   ],
   "ME4293 Spr25": [
