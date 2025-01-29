@@ -15,6 +15,15 @@ assignments = {
       "submitted": false
     }
   ],
+  "ME-3663-002-202520": [
+    {
+      "title": "Prerequisite Quiz",
+      "course": "ME-3663-002-202520",
+      "dueDate": "2025-01-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/969569",
+      "submitted": false
+    }
+  ],
   "ME4293 Spr25": [
     {
       "title": "Ch7 1. Prob 7.017",
