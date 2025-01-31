@@ -4,8 +4,8 @@ assignments = {
       "title": "Homework 1",
       "course": "ME-3543-001-202520",
       "dueDate": "2025-01-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/961345",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961345/assignments/5644939/submissions/303696208",
+      "submitted": true
     },
     {
       "title": "Homework 2",
