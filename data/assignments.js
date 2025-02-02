@@ -36,8 +36,8 @@ assignments = {
       "title": "Ch7 1. Prob 7.017",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
-      "link": "https://www.gradescope.com/courses/944675",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/944675/assignments/5552369/submissions/304287636",
+      "submitted": true
     },
     {
       "title": "Ch7 2. Prob 7.022",
