@@ -40,49 +40,49 @@ assignments = {
   ],
   "ME4293 Spr25": [
     {
-      "title": "Ch7 1. Prob 7.017",
+      "title": "Ch7 1.",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675/assignments/5552369/submissions/304287636",
       "submitted": true
     },
     {
-      "title": "Ch7 2. Prob 7.022",
+      "title": "Ch7 2.",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675/assignments/5552504/submissions/304870322",
       "submitted": true
     },
     {
-      "title": "Ch7 3. Prob 7.031",
+      "title": "Ch7 3.",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675/assignments/5552513/submissions/304870424",
       "submitted": true
     },
     {
-      "title": "Ch7 4. Prob 7.040",
+      "title": "Ch7 4.",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675/assignments/5552544/submissions/304870501",
       "submitted": true
     },
     {
-      "title": "Ch7 5. Prob 7.050",
+      "title": "Ch7 5.",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch7 6. Prob 7.057",
+      "title": "Ch7 6.",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch7 7. Prob 7.072",
+      "title": "Ch7 7.",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675/assignments/5552570/submissions/304870582",
