@@ -78,8 +78,8 @@ assignments = {
       "title": "Ch7 6.",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-07T23:50:00",
-      "link": "https://www.gradescope.com/courses/944675",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/944675/assignments/5552565/submissions/306367758",
+      "submitted": true
     },
     {
       "title": "Ch7 7.",
