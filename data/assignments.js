@@ -89,217 +89,217 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Ch8 1. Prob 8.004",
+      "title": "Ch8 #1",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch8 2. Prob 8.011",
+      "title": "Ch8 #2 ",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch8 3. Prob 8.014",
+      "title": "Ch8 #3",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch8 4. Prob 8.019",
+      "title": "Ch8 #4",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch8 5. Prob 8.025",
+      "title": "Ch8 #5",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch8 6. Prob 8.037",
+      "title": "Ch8 #6",
       "course": "ME4293 Spr25",
       "dueDate": "2025-02-20T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch9 1. Prob 9.003",
+      "title": "Ch9 #1",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch9 2. Prob 9.015",
+      "title": "Ch9 #2",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch9 3. Prob 9.017",
+      "title": "Ch9 #3",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch9 4. Prob 9.030",
+      "title": "Ch9 #4",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch9 5. Prob 9.032",
+      "title": "Ch9 #5",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch9 6. Prob 9.042",
+      "title": "Ch9 #6",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch9 7. Prob 9.057",
+      "title": "Ch9 #7",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch10 1. Prob 10.004",
+      "title": "Ch10 #1",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-04-02T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch10 2. Prob 10.014",
+      "title": "Ch10 #2",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-04-02T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch10 3. Prob 10.018",
+      "title": "Ch10 #3",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-04-02T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch10 4. Prob 10.024",
+      "title": "Ch10 #4",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-04-02T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch10 5. Prob 10.027",
+      "title": "Ch10 #5",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-04-02T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch10 6. Prob 10.029",
+      "title": "Ch10 #6",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-08T23:50:00",
+      "dueDate": "2025-04-02T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch12 1. Prob 12.020",
+      "title": "Ch12 #1",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-05-08T23:50:00",
+      "dueDate": "2025-04-23T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch12 2. Prob 12.030",
+      "title": "Ch12 #2",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-05-08T23:50:00",
+      "dueDate": "2025-04-23T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch12 3. Prob 12.033",
+      "title": "Ch12 #3",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-05-08T23:50:00",
+      "dueDate": "2025-04-23T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch12 4. Prob 12.043",
+      "title": "Ch12 #4",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-05-08T23:50:00",
+      "dueDate": "2025-04-23T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch12 5. Prob 12.049",
+      "title": "Ch12 #5",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-05-08T23:50:00",
+      "dueDate": "2025-04-23T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch13 1. Prob 13.002",
-      "course": "ME4293 Spr25",
-      "dueDate": "2025-05-08T23:50:00",
-      "link": "https://www.gradescope.com/courses/944675",
-      "submitted": false
-    },
-    {
-      "title": "Ch13 2. Prob 13.008",
+      "title": "Ch13 #1",
       "course": "ME4293 Spr25",
       "dueDate": "2025-05-08T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch13 3. Prob 13.009",
+      "title": "Ch13 #2",
       "course": "ME4293 Spr25",
       "dueDate": "2025-05-08T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch13 4. Prob 13.015",
+      "title": "Ch13 #3",
       "course": "ME4293 Spr25",
       "dueDate": "2025-05-08T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch13 5. Prob 13.023",
+      "title": "Ch13 #4",
       "course": "ME4293 Spr25",
       "dueDate": "2025-05-08T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch13 6. Prob 13.027",
+      "title": "Ch13 #5",
       "course": "ME4293 Spr25",
       "dueDate": "2025-05-08T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
-      "title": "Ch13 7. Prob 13.031",
+      "title": "Ch13 #6",
+      "course": "ME4293 Spr25",
+      "dueDate": "2025-05-08T23:50:00",
+      "link": "https://www.gradescope.com/courses/944675",
+      "submitted": false
+    },
+    {
+      "title": "Ch13 #7",
       "course": "ME4293 Spr25",
       "dueDate": "2025-05-08T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
