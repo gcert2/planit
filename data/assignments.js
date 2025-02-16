@@ -50,6 +50,13 @@ assignments = {
       "dueDate": "2025-02-21T23:00:00",
       "link": "https://www.gradescope.com/courses/969569",
       "submitted": false
+    },
+    {
+      "title": "Homework Assignment 2 Part B",
+      "course": "ME-3663-002-202520",
+      "dueDate": "2025-02-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/969569",
+      "submitted": false
     }
   ],
   "ME4293 Spr25": [
