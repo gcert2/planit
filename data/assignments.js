@@ -325,6 +325,13 @@ assignments = {
       "dueDate": "2025-05-08T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
+    },
+    {
+      "title": "Ch8 #7",
+      "course": "ME4293 Spr25",
+      "dueDate": "2025-02-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/944675/assignments/5820581/submissions/310194078",
+      "submitted": true
     }
   ]
 };
