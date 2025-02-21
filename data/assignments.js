@@ -66,6 +66,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "ME-3813-001-202520": [],
   "ME4293 Spr25": [
     {
       "title": "Ch7 1.",
