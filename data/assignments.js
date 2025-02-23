@@ -55,8 +55,8 @@ assignments = {
       "title": "Homework 2 -Part A",
       "course": "ME-3663-002-202520",
       "dueDate": "2025-02-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/969569",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969569/assignments/5778624/submissions/311221130",
+      "submitted": true
     },
     {
       "title": "Homework Assignment 2 Part B",
