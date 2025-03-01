@@ -71,6 +71,13 @@ assignments = {
       "dueDate": "2025-03-07T23:59:00",
       "link": "https://www.gradescope.com/courses/969569",
       "submitted": false
+    },
+    {
+      "title": "Optional Design Project",
+      "course": "ME-3663-002-202520",
+      "dueDate": "2025-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/969569",
+      "submitted": false
     }
   ],
   "ME-3813-001-202520": [],
