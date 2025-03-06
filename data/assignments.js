@@ -92,6 +92,20 @@ assignments = {
       "dueDate": "2025-03-17T08:00:00",
       "link": "https://www.gradescope.com/courses/969569",
       "submitted": false
+    },
+    {
+      "title": "Design Homework - Streamlines with matlab",
+      "course": "ME-3663-002-202520",
+      "dueDate": "2025-03-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/969569",
+      "submitted": false
+    },
+    {
+      "title": "Homework Assignment 5",
+      "course": "ME-3663-002-202520",
+      "dueDate": "2025-03-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/969569",
+      "submitted": false
     }
   ],
   "ME-3813-001-202520": [],
