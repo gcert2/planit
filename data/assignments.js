@@ -104,8 +104,8 @@ assignments = {
       "title": "Homework Assignment 5",
       "course": "ME-3663-002-202520",
       "dueDate": "2025-03-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/969569",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969569/assignments/5901337/submissions/319174453",
+      "submitted": true
     }
   ],
   "ME-3813-001-202520": [],
