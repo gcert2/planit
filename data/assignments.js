@@ -34,6 +34,13 @@ assignments = {
       "dueDate": "2025-03-20T23:59:00",
       "link": "https://www.gradescope.com/courses/961345/assignments/5675427/submissions/318900330",
       "submitted": true
+    },
+    {
+      "title": "Homework 6",
+      "course": "ME-3543-001-202520",
+      "dueDate": "2025-04-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/961345",
+      "submitted": false
     }
   ],
   "ME-3663-002-202520": [
@@ -240,15 +247,15 @@ assignments = {
       "title": "Ch9 #5",
       "course": "ME4293 Spr25",
       "dueDate": "2025-03-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/944675",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/944675/assignments/5552657/submissions/319698548",
+      "submitted": true
     },
     {
       "title": "Ch9 #6",
       "course": "ME4293 Spr25",
       "dueDate": "2025-03-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/944675",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/944675/assignments/5552664/submissions/319700700",
+      "submitted": true
     },
     {
       "title": "Ch9 #7",
