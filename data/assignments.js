@@ -212,29 +212,29 @@ assignments = {
       "title": "Ch9 #1",
       "course": "ME4293 Spr25",
       "dueDate": "2025-03-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/944675",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/944675/assignments/5552636/submissions/319690616",
+      "submitted": true
     },
     {
       "title": "Ch9 #2",
       "course": "ME4293 Spr25",
       "dueDate": "2025-03-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/944675",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/944675/assignments/5552638/submissions/319690848",
+      "submitted": true
     },
     {
       "title": "Ch9 #3",
       "course": "ME4293 Spr25",
       "dueDate": "2025-03-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/944675",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/944675/assignments/5552639/submissions/319691002",
+      "submitted": true
     },
     {
       "title": "Ch9 #4",
       "course": "ME4293 Spr25",
       "dueDate": "2025-03-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/944675",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/944675/assignments/5552642/submissions/319691091",
+      "submitted": true
     },
     {
       "title": "Ch9 #5",
