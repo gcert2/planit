@@ -118,8 +118,8 @@ assignments = {
       "title": "HW6-Part A",
       "course": "ME-3663-002-202520",
       "dueDate": "2025-03-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/969569",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969569/assignments/5982421/submissions/321105319",
+      "submitted": true
     },
     {
       "title": "Homework6-PartB",
