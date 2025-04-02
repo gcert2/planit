@@ -101,7 +101,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "Spring Break Flow Visualization challenge",
+      "title": "Spring break challenge",
       "course": "ME-3663-002-202520",
       "dueDate": "2025-03-17T08:00:00",
       "link": "https://www.gradescope.com/courses/969569",
