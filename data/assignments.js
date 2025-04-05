@@ -97,8 +97,8 @@ assignments = {
       "title": "Optional Design Project",
       "course": "ME-3663-002-202520",
       "dueDate": "2025-04-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/969569",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/969569/assignments/5874334/submissions/322709745",
+      "submitted": true
     },
     {
       "title": "Spring break challenge",
