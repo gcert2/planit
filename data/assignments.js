@@ -323,21 +323,21 @@ assignments = {
     {
       "title": "Ch12 #1",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-23T23:59:00",
+      "dueDate": "2025-04-10T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
       "title": "Ch12 #2",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-23T23:59:00",
+      "dueDate": "2025-04-15T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
       "title": "Ch12 #3",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-04-23T23:59:00",
+      "dueDate": "2025-04-17T23:59:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
@@ -358,21 +358,21 @@ assignments = {
     {
       "title": "Ch13 #1",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-05-08T23:50:00",
+      "dueDate": "2025-04-24T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
       "title": "Ch13 #2",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-05-08T23:50:00",
+      "dueDate": "2025-04-29T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
     {
       "title": "Ch13 #3",
       "course": "ME4293 Spr25",
-      "dueDate": "2025-05-08T23:50:00",
+      "dueDate": "2025-04-29T23:50:00",
       "link": "https://www.gradescope.com/courses/944675",
       "submitted": false
     },
