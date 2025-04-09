@@ -39,8 +39,8 @@ assignments = {
       "title": "Homework 6",
       "course": "ME-3543-001-202520",
       "dueDate": "2025-04-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/961345",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961345/assignments/5675430/submissions/323693202",
+      "submitted": true
     },
     {
       "title": "Homework 7",
