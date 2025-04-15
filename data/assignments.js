@@ -48,6 +48,13 @@ assignments = {
       "dueDate": "2025-04-15T23:59:00",
       "link": "https://www.gradescope.com/courses/961345",
       "submitted": false
+    },
+    {
+      "title": "Homework 8",
+      "course": "ME-3543-001-202520",
+      "dueDate": "2025-05-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/961345",
+      "submitted": false
     }
   ],
   "ME-3663-002-202520": [
